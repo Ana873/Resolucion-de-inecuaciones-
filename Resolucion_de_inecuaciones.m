@@ -3,7 +3,7 @@
 % Description         :Script para solucionar desigualdades
 % Authors             :Atzimba Joice Martinez Huitron
 %                     :Francelly Desiree Colin Sandoval 
-%                     :Ana Cristina Franco Gonzales 
+%                     :Ana Cristina Franco Gonzalez
 % Date                :20211009
 % Usage               :Octave 
 
